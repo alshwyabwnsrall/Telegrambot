@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Desktop Web Client",
+  "description": "A real Telegram MTProto Desktop Client with QR Code login, persistent sessions, live chats, groups, channels, contacts, media sharing, and account dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
